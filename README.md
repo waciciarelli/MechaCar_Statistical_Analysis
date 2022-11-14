@@ -35,7 +35,7 @@ Next, we look at the statistical analysis of each of the 3 lots to determine if 
 
 The following are one-sample t-tests on the Suspension Coil data. This investigates whether the PSI across all manufacturing lots is statistically different from the population mean of 1,500 PSI.
 
-![T test for all Lots] (https://github.com/waciciarelli/MechaCar_Statistical_Analysis/blob/main/Screenshots/ttest()%203.1.png?raw=true)
+![T test for all Lots](https://github.com/waciciarelli/MechaCar_Statistical_Analysis/blob/main/Screenshots/ttest()%203.1.png?raw=true)
 
 Above is the t-test for all manufactuting lots. The p-value of this t-test is 0.06028. Because our significance value is 0.05, we fail to reject our null hypothesis. As such, there is no significant difference between the PSI of all of the manufacturing lots as a whole and the population mean of 1,500 PSI.
 
