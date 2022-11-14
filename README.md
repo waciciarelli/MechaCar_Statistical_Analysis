@@ -26,7 +26,7 @@ This summary model is somewhat effective in predicting the mpg of MechaCar proto
 
 When looking at whether or not the current manufacturing data meet this design specification, we must first look at the data as a whole. The table above gives us a statistical analysis of all manufacturing lots and their PSI's. The variance of this analysis is 62.30 PSI, which is less than the dictated 100 PSI.
 
-![Lot Summary](https://github.com/waciciarelli/MechaCar_Statistical_Analysis/blob/main/Screenshots/total_summary.png?raw=true)
+![Lot Summary](https://github.com/waciciarelli/MechaCar_Statistical_Analysis/blob/main/Screenshots/lot_summary.png?raw=true)
 
 Next, we look at the statistical analysis of each of the 3 lots to determine if they meet this standard as well. While Lot 1 and Lot 2 meet this standard with variances of 0.98 PSI and 7.47 PSI respectively, Lot 3 far exceeds this standard with a variance of 170.29 PSI.
 
